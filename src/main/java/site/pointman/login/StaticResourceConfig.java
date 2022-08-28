@@ -1,4 +1,4 @@
 package site.pointman.login;
 
-public class StaticResourceConfig{
+public class StaticResourceConfig {
 }
