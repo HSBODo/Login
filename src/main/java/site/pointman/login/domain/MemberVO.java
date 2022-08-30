@@ -1,10 +1,7 @@
 package site.pointman.login.domain;
 
 
-import org.apache.ibatis.type.Alias;
-import org.springframework.context.annotation.Bean;
-
-public class Member {
+public class MemberVO {
    private String id  ;
    private String pwd ;
 
